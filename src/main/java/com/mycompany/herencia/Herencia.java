@@ -26,7 +26,7 @@ public class Herencia {
         double base;
         base=leer.nextDouble();
         Triangulo triangulo1=new Triangulo(base,altura);
-        System.out.println("El area del trinagulo es: "+triangulo1.CalcularArea());
+        System.out.println("El aréa del trinagulo es: "+triangulo1.CalcularArea());
         
     }
 }
